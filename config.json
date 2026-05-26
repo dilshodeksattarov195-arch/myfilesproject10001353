@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasedync",
+        "uuid": 9845781,
+        "checksum": "cy10ec"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
